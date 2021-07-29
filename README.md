@@ -1,0 +1,4 @@
+# task4-num11
+
+Create a poker.html page, add cards.png and frame.png images from the task folder. It is necessary to cut out the necessary fragments from the frame.png image and make up the rubber background. The dimensions of the standard format should depend on the amount of text in it and on the size of the window (that is, the frame stretches over the entire width of the window, and such a height to accommodate the text in it).
+Insert title and text. Add a box with a green border and 20px padding. In this container, create 5 blocks (<div>) that are 190px high and 140px wide and set their display style: inline-block. Add the values ​​for these blocks to the background image of the cards.png sprite, but with such background positions so that the specified combination of cards is obtained.
